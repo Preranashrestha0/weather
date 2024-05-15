@@ -22,10 +22,10 @@ Display temperature and weather condition.
 
 
 ## Technologies Used
-Flutter
-Dart
-WeatherAPI
-Geolocator
+- Flutter
+- Dart
+- WeatherAPI
+- Geolocator
 
 ## Contributors
 Prerana Shrestha
